@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "67F1E806-0B27-4BC6-ACD0-2719D51F6E6B",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:NerdleGame.xcodeproj",
+        "identifier" : "9F179BFB2CA1B82C00EFA87F",
+        "name" : "NerdleGameTests"
+      }
+    }
+  ],
+  "version" : 1
+}
